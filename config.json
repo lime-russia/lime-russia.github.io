@@ -1,4 +1,4 @@
-{
+ {
   "projectName": "LIME RUSSIA",
   "packageName": "com.brilliant.cr",
   "webSite": "https://vk.com/lime.mobile",
@@ -7,9 +7,9 @@
   "instagram": "https://www.instagram.com/ilyar36/",
   "telegram": "https://t.me/nkreyh",
   "supportPeople": "https://vk.com/nkreyh",
-  "filesFull": "https://s643sas.storage.yandex.net/rdisk/5eb38a36e58da8eccbc0c959489d3addd2ed7479f747d41b79a6fd265ce31bb4/61bb70fa/_fghVKgvQVWWxfbpvPD_GDBQy8p58L0CedZb6IEcMN8jezocka0YdJ2Z7_1S7ou4lAFVoRX2UudDEQ76552TDg==?uid=0&filename=com.brilliant.cr.zip&disposition=attachment&hash=m/90GEA1Ca2MRG5oApA7oVtHELCx6e%2BOQoq/EVu/nDJpNyYyYzkBwyLMwyXW02TXq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=978541267&fsize=1026726026&hid=2ad4992fa49d7dd62704ae48b7b253fb&media_type=compressed&tknv=v2&rtoken=fRqT7vmOsad1&force_default=no&ycrid=na-135dd634f0053af2c35050fb87ca354e-downloader12f&ts=5d34660a2b280&s=d59fe68bb1567fe6122c1369cee32fc6a708f1ae61723b2b21c4ea2c962423ec&pb=U2FsdGVkX1-d2583urXzr4FcibMyJiDuMzFqGYBwTJeX6eNy6L6lu72iDzKnL2F9F1G-M6IoeFxA6aUUxMBbV7iOXGrvMYtqTjF1QXkNglo",
-  "texdb_1": "https://s643sas.storage.yandex.net/rdisk/cfaf547a202d23d911effc491033fe5ab4a128a9002a3c5ceb41e07f0c41723c/61bb5820/_fghVKgvQVWWxfbpvPD_GDBQy8p58L0CedZb6IEcMN8jezocka0YdJ2Z7_1S7ou4lAFVoRX2UudDEQ76552TDg==?uid=0&filename=com.brilliant.cr.zip&disposition=attachment&hash=m/90GEA1Ca2MRG5oApA7oVtHELCx6e%2BOQoq/EVu/nDJpNyYyYzkBwyLMwyXW02TXq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=978541267&fsize=1026726026&hid=2ad4992fa49d7dd62704ae48b7b253fb&media_type=compressed&tknv=v2&rtoken=hfcGCCrnm8qJ&force_default=no&ycrid=na-92cb97f1093f24ad884e07895870fa6b-downloader13e&ts=5d344e56e4800&s=25b6b4f5629bf729ea6ec1c937d0ff72782c49f6a18201845480c29db09a14bb&pb=U2FsdGVkX18xry1rHyVt5LjLn4GCp8gWz8l-HYVS10zO1GkN5_X0qYVc-2LEIIl6L6TuGk_KYdVF-0NKKiQpkS69N2Z6JZQlmNxVeuZ7SeI", 
-  "baseClient": "https://s301sas.storage.yandex.net/rdisk/7e84f85b6013434e1a8a786fbadf03ad8cf099cd86c83ebc51ea10238765c0da/61bb6ae9/_fghVKgvQVWWxfbpvPD_GLvggVUKrk8bupZGYoNGVNFyE_za22_hBGARtV0WHZDDqXbr7fiv9LIjUMyT1QaMoA==?uid=0&filename=client.apk&disposition=attachment&hash=Jw1qnV1nsrj7Y8pjCDr7al6RgrjkcA0teAt9BKhoy8bZ3QgZ2ForhSw3QaE/5w9lq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fjava-archive&owner_uid=978541267&fsize=17457213&hid=46b9111566b5953653d155262301b14c&media_type=unknown&tknv=v2&rtoken=A3oJ2njjIKX9&force_default=no&ycrid=na-f6fe93f8851e692e9bb2a14a1be344c6-downloader24f&ts=5d3460411cc40&s=dd45d003c3e60584c469799adda94724357636e8376abdbe00479e7f792bb86f&pb=U2FsdGVkX1_SWyJtxS5g6E67-XKhnG4rDNLPunVXpX8NdWJ7Hcolw4GUS9CB3IjbBekug6I-1x22Minw2L4ACa383rDgF0qTEwlyrkhiBrU",
+  "filesFull": "",
+  "texdb_1": "", 
+  "baseClient": "",
   "launcher": "",
   "version": "1.1",
   "gVersion": "1",
